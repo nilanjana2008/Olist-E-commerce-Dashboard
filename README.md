@@ -62,6 +62,8 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 
 ## 5. Customer Dashboard Insights Summary
 
+![Image](https://github.com/user-attachments/assets/6729c0d0-edca-4e14-9024-eced7131a275)
+
 **Customer Segmentation**
 
 - **Total vs. Repeat Customers %**: Analyze the proportion of repeat customers. A higher proportion of repeat customers may indicate strong customer loyalty and successful retention strategies. 
