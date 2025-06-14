@@ -9,5 +9,5 @@ Founded in 2015, Olist is an e-commerce platform that connects small and medium-
 ### Goal
 
 - **Sales dashboard:** to provide a detailed and timely overview of key sales metrics on a monthly basis, facilitating informed decision-making and tactical adjustments.
-- **Customer dashboard:** to provide a comprehensive view of customer metrics and behavior, enabling data-driven marketing strategies and campaign optimization.
-- **Delivery dashboard:**  to provide a detailed and actionable view of delivery performance metrics , enabling efficient management of logistics and operational processes.
+- **Customer Insights:** to provide a comprehensive view of customer metrics and behavior, enabling data-driven marketing strategies and campaign optimization.
+- **Logistics & Delivery Insights:**  to provide a detailed and actionable view of delivery performance metrics , enabling efficient management of logistics and operational processes.
