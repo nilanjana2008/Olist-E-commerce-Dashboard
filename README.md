@@ -24,6 +24,8 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 
 **Sales Performance**
 
+![Image](https://github.com/user-attachments/assets/97ab0b4e-1af8-425f-ba57-bf646045c2ec)
+
 - **Trend Analysis**: Evaluate how Total Orders and Gross Revenue have changed compared to previous month. This helps identify growth trends or declines in sales performance.
 - **Day of Week**: Identify which days have the highest and lowest Total Orders and Gross Revenue. This can help optimize staffing, promotional efforts, and inventory levels for peak days.
 - **Months **: Determine peak shopping hours. This can assist in scheduling promotions and improving website performance during high-demand months.
