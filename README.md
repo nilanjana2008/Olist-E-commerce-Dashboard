@@ -1,9 +1,10 @@
 # Olist-E-commerce-Dashboard
 
+## 1. Project Overview
 
 ### Context
 
-Founded in 2015, Olist is an e-commerce platform that connects small and medium-sized businesses to customers. The platform operates as a marketplace, where merchants can list their products and services and customers can browse and purchase them online. 
+Olist is an e-commerce platform that connects small and medium-sized businesses to customers. The platform operates as a marketplace, where merchants can list their products and services and customers can browse and purchase them online. 
 
 
 ### Goal
@@ -54,7 +55,7 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 - **State Analysis**: Review delivery metrics by state to identify regional performance differences. This helps pinpoint areas with higher or lower delivery performance and adjust strategies accordingly. For regions with higher late delivery rates, enhance logistical support, improve local partnerships, or optimize delivery routes.
 
 
-## 4. Customer Dashboard Insights Summary
+## 5. Customer Dashboard Insights Summary
 
 **Customer Segmentation**
 
@@ -68,6 +69,49 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 **Customer Satisfaction**
 
 - **Review Score Distribution**: Assess the overall distribution of review scores to gauge general customer satisfaction. Identify if most reviews are positive, negative, or neutral, and investigate common themes in reviews.
+
+
+## 6. Appendix
+
+### Technical Process
+
+The technical process included:
+
+- Cleaning, preparing and exploring the data in Microsoft Excel(Power Query)
+- Calculating metrics in DAX
+- Building dashboards in PowerBI
+
+
+  ### Sales Dashboard Key Metrics
+
+The sales dashboard focuses on the following key metrics:
+
+- **Total Orders**: The total number of individual purchase transactions completed within a specific period.
+- **Gross Revenue**: The total amount of money generated from sales before any deductions like discounts, returns, cancellation or taxes.
+- **Average Order Value (AOV)**: The average amount spent per transaction.
+- **Average Basket Size**: The average number of items purchased per order.
+- **Order Cancellation Rate**: The percentage of orders that are canceled compared to the total number of orders placed.
+
+### Customer Dashboard Key Metrics
+
+The customer dashboard focuses on the following key metrics:
+
+- **Total Customers**: The total number of unique individuals who have made at least one purchase from your e-commerce store within a specified period.
+- **New Customers**: The number of unique individuals who made their first purchase within a specific time frame.
+- **Repeat Customer Rate**: The percentage of customers who make more than one purchase within a specified period.
+- **Revenue per Customer**: The average revenue generated from each customer over a specified period. It reflects how much value each customer brings to your business.
+- **Average Purchase Frequency**: The average number of purchases made by each customer within a specific period.
+- **Average Review Score**: The average rating given by customers on their purchases,  on a scale from 1 to 5 stars.
+
+### Delivery Dashboard Key Metrics
+
+- **Total Orders**: The total number of orders placed by customers within a specified period.
+- **Order Fulfillment Rate**: The percentage of orders that are successfully fulfilled and shipped within a given time frame.
+- **Average Delivery Time**: The average amount of time taken from when an order is placed to when it is delivered to the customer.
+- **On-Time Delivery Rate**: The percentage of orders that are delivered by the estimated delivery date.
+- **Late Delivery Rate**: The percentage of orders that are delivered after the estimated delivery date.
+
+
 
 
 
