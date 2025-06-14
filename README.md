@@ -19,6 +19,7 @@ The dataset has information of  orders from 2017 to 2018(August) made at multipl
 
 This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/code). 
 
+## 3. Sales Dashboard Insights Summary
 
 **Sales Performance**
 
@@ -32,7 +33,7 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 - **Payment Method**: Analyze the distribution of payment types. If a particular payment method dominates, consider enhancing support and promotions for less popular methods to improve their adoption.
 
 
-  ## 5. Delivery Dashboard Insights Summary
+  ## 4. Logitics & Delivery Dashboard Insights Summary
 
 **Delivery Performance**
 
