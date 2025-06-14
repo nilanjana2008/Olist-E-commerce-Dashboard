@@ -77,7 +77,7 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 
 The technical process included:
 
-- Cleaning, preparing and exploring the data in Microsoft Excel(Power Query)
+- Cleaning(have exlcuded 2016 data as it only had Aug & Sept Data), preparing and exploring the data in Microsoft Excel(Power Query)
 - Calculating metrics in DAX
 - Building dashboards in PowerBI
 
@@ -86,31 +86,31 @@ The technical process included:
 
 The sales dashboard focuses on the following key metrics:
 
-- **Total Orders**: The total number of individual purchase transactions completed within a specific period.
-- **Gross Revenue**: The total amount of money generated from sales before any deductions like discounts, returns, cancellation or taxes.
+- **Total Order Value**: The total  revenue generated from all the orders placed.
+- **Total Revenue**: The total amount of money generated from sales.
 - **Average Order Value (AOV)**: The average amount spent per transaction.
-- **Average Basket Size**: The average number of items purchased per order.
-- **Order Cancellation Rate**: The percentage of orders that are canceled compared to the total number of orders placed.
+- **Total Products Sold**: The total number of items purchased .
+- **Year to Date Growth %**: The percentage of revenue increase comapred to last year to current year.
 
-### Customer Dashboard Key Metrics
+### Logitics & Delivery Dashboard Key Metrics
+
+- **Total Orders**: The total number of orders placed by customers within a specified period.
+- **Average Delivery Time**: The average amount of time taken from when an order is placed to when it is delivered to the customer.
+- - **No of delayed Orders**: The number of orders that are  not successfully fulfilled and shipped within the promised time frame.
+- **Total Shipping Cost**: The total cost required to ship all the products.
+- **Late Delivery Rate**: The percentage of orders that are delivered after the estimated delivery date.
+
+
+### Customer Insights Dashboard Key Metrics
 
 The customer dashboard focuses on the following key metrics:
 
 - **Total Customers**: The total number of unique individuals who have made at least one purchase from your e-commerce store within a specified period.
-- **New Customers**: The number of unique individuals who made their first purchase within a specific time frame.
+- **Order per Customer**: The number of unique individuals who made their first purchase within a specific time frame.
 - **Repeat Customer Rate**: The percentage of customers who make more than one purchase within a specified period.
 - **Revenue per Customer**: The average revenue generated from each customer over a specified period. It reflects how much value each customer brings to your business.
-- **Average Purchase Frequency**: The average number of purchases made by each customer within a specific period.
+- **Total Repeat Customer**: The total number of customers who made more than one purchase within a specific period.
 - **Average Review Score**: The average rating given by customers on their purchases,  on a scale from 1 to 5 stars.
-
-### Delivery Dashboard Key Metrics
-
-- **Total Orders**: The total number of orders placed by customers within a specified period.
-- **Order Fulfillment Rate**: The percentage of orders that are successfully fulfilled and shipped within a given time frame.
-- **Average Delivery Time**: The average amount of time taken from when an order is placed to when it is delivered to the customer.
-- **On-Time Delivery Rate**: The percentage of orders that are delivered by the estimated delivery date.
-- **Late Delivery Rate**: The percentage of orders that are delivered after the estimated delivery date.
-
 
 
 
