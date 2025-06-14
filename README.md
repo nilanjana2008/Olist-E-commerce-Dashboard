@@ -36,7 +36,7 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 - **Payment Method**: Analyze the distribution of payment types. If a particular payment method dominates, consider enhancing support and promotions for less popular methods to improve their adoption.
 
 
-  ## 4. Logitics & Delivery Dashboard Insights Summary
+  ## 4. Logistics & Delivery Dashboard Insights Summary
 
 ![Image](https://github.com/user-attachments/assets/7166249d-93d5-4d71-9672-8078de77f191)
 
@@ -99,7 +99,7 @@ The sales dashboard focuses on the following key metrics:
 - **Total Products Sold**: The total number of items purchased .
 - **Year to Date Growth %**: The percentage of revenue increase comapred to last year to current year.
 
-### Logitics & Delivery Dashboard Key Metrics
+### Logistics & Delivery Dashboard Key Metrics
 
 - **Total Orders**: The total number of orders placed by customers within a specified period.
 - **Average Delivery Time**: The average amount of time taken from when an order is placed to when it is delivered to the customer.
