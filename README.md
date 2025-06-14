@@ -38,6 +38,9 @@ This dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazili
 
   ## 4. Logitics & Delivery Dashboard Insights Summary
 
+![Image](https://github.com/user-attachments/assets/7166249d-93d5-4d71-9672-8078de77f191)
+
+
 **Delivery Performance**
 
 - **On-time vs. Late Delivery Rate**: Determine the percentage of on-time deliveries versus late deliveries. This helps assess overall delivery performance and identify areas needing improvement.
